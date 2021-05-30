@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.simple_login_screen_with_flutter">
    <application
-        android:label="simple_login_screen_with_flutter"
+        android:label="Simple Login Screen"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
